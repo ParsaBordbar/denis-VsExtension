@@ -1,13 +1,22 @@
-# denis-ai README
+# Denis AI - Local LLM Assistant for VS Code
 
-A simple code that uses local LLMs (Default is Deep Seek R1) run on your system with ollama with a UI with Tokyo-night theme colors!
+![Denis AI Demo](assets/demo.gif) <!-- Add screenshot later -->
+
+A privacy-focused AI coding assistant that runs local language models through Ollama, featuring a beautiful Tokyo Night-inspired UI.
+
+[![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/YourName.denis-ai?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=YourName.denis-ai)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 ## Features
 
-### Can use Custom LLMS and other ones! 
-### UI with Tokyo Night Theme
-### Uses DEEP SEEK R1 as the default model
+✨ **Local AI Processing**  
+- Runs completely offline using Ollama's local models
+- Uses Deep Seek R1 Model
 
-## Requirements
+🎨 **Tokyo Night Theme**  
+- Carefully crafted UI with matching color palette
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+🚀 **Developer-Centric Workflow**  
+- In-editor chat interface
+- Streamed responses with markdown support
+- Code suggestion and explanation
