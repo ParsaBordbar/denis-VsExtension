@@ -1,6 +1,6 @@
 # Denis AI - Local LLM Assistant for VS Code
 
-[![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ParsaBordbar.denis-ai?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ParsaBordbar.denis-ai)
+[![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ParsaBordbar.denis-ai.svg?label=Version&color=blue&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=ParsaBordbar.denis-ai)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 https://github.com/user-attachments/assets/a5a52632-b61e-466f-aad4-703802d9961d
