@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/a5a52632-b61e-466f-aad4-703802d9961d
 
 A privacy-focused AI coding assistant that runs local language models through Ollama, featuring a beautiful Tokyo Night-inspired UI.
 
-[![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ParsaBordbar.denis-ai?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=denis-ai)
+[![VS Code Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ParsaBordbar.denis-ai?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=ParsaBordbar.denis-ai)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 ## Features
